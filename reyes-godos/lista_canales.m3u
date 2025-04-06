@@ -175,6 +175,8 @@ acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1,M Deportes (Op05)
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1,M Deportes (Op06)
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1,M Deportes 2 (Op01)
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
 #EXTINF:-1,M Deportes 2 (Op02)
@@ -205,8 +207,6 @@ acestream://05057e832dd1530c7d5e8b0857fee6826243a243
 acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
 #EXTINF:-1,M+ LIGA DE CAMPEONES 6 FHD --> NEW ERA (5.6 Mbps)
 acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
-#EXTINF:-1,M. Deportes HD (7.6 Mbps)
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1,M. Golf (Op01)
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
 #EXTINF:-1,M. LaLiga
