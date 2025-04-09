@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Arena Sport 1 HD
 acestream://8386b45f870fb4469ee9297fb523f7f8aa621034
-#EXTINF:-1,Arena Sport 1 HD
-acestream://96273804aa8583e9368e744a456f99da6d069e8a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png",BeIN Sports 1 [BE] (3.6 Mbps)
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png",BeIN Sports 2 [BE] (4.6 Mbps)
@@ -45,6 +43,8 @@ acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 1 HD [PL] (6.7 Mbps)
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 2 [BE] (5.1 Mbps)
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 2 HD [PL] (7.6 Mbps)
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 3 [BE] (8.3 Mbps)
@@ -53,8 +53,6 @@ acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 4 [BE] (2.1 Mbps)
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 4 HD [PL] (7.1 Mbps)
-acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 5 [BE] (4.2 Mbps)
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png",Eleven Sports 6 [BE] (7.3 Mbps)
@@ -81,6 +79,10 @@ acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 1 HD [DE] (4.5 Mbps)
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 2 (Op01)
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 2 (Op02)
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 2 HD [DE] (3.7 Mbps)
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 2 HD [PL] (6.8 Mbps)
@@ -111,8 +113,6 @@ acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Fox_Sports_logo.svg/200px-Fox_Sports_logo.svg.png",FOX Sports 2 HD [US] (3.6 Mbps)
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1,La 1 (Op01)
-acestream://7225e4b281975f1a36d61dfd9724b669d7747b70
 #EXTINF:-1,M Deportes (Op01)
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
 #EXTINF:-1,M Deportes (Op02)
@@ -123,10 +123,6 @@ acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1,M Deportes (Op05)
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1,M Deportes 2 (Op01)
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1,M Deportes 2 (Op02)
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1,M Plus+ (M+) (Op09)
 acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 #EXTINF:-1,M Plus+ (M+) (Op10)
@@ -211,20 +207,12 @@ acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 acestream://d0842346aad155a78f94dffe7d4ca313c33882a4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TRT_logo.svg/200px-TRT_logo.svg.png",TRT Haber Turquía
 acestream://6de7c6b04e82b9edfd445af6ba6b448bc70877f2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/UFC_Logo.svg/200px-UFC_Logo.svg.png",UFC
+acestream://2d4b53402ff6158ec5aa4b38a80a773b5e00da0d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/UFC_Logo.svg/200px-UFC_Logo.svg.png",UFC HD [RU] (4.5 Mbps)
 acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
-#EXTINF:-1,Vamos (Op01)
-acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1,Vamos (Op02)
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
-#EXTINF:-1,Vamos (Op03)
-acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-#EXTINF:-1,Vamos (Op04)
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1,Vamos (Op05)
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1,Vamos (Op06)
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Viasat_Sport_logo.svg/200px-Viasat_Sport_logo.svg.png",VIASAT SPORT HD [RU] (4.7 Mbps)
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Ziggo_Sport_Totaal_logo.svg/200px-Ziggo_Sport_Totaal_logo.svg.png",Ziggo Sport (4.8 Mbps)
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Ziggo_Sport_Totaal_logo.svg/200px-Ziggo_Sport_Totaal_logo.svg.png",Ziggo Sport 2 (4.8 Mbps)
@@ -251,5 +239,7 @@ acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Матч! Футбол 2 ( original ) [RU] (10.1 Mbps)
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Матч! футбол 2 HD
+acestream://4fb7d7f128d371205a6bce4caf4a3d68664728cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Матч! Футбол 3 ( original ) [RU] (8.2 Mbps)
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
