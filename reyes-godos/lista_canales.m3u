@@ -39,8 +39,24 @@ acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 1 Bar HD [DE] (13.3 Mbps)
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 2 (Op01)
+acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 2 (Op02)
+acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 2 (Op03)
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 2 (Op04)
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 2 Bar HD [DE] (11.2 Mbps)
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 3 (Op01)
+acestream://c34a6552886fad4627ea36947fdec3e46e4e3b08
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 3 (Op02)
+acestream://5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 4 (Op01)
+acestream://5e5b670d44e4f23a49ebe1770458066ac2cf58e3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN 4 (Op02)
+acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN F1 (Op01)
 acestream://9f04b67904bf5ec6782ab34e8105bca264c10b62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN F1 (Op02)
@@ -57,6 +73,14 @@ acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN F1 (Op08)
 acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN LaLiga (Op01)
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN LaLiga (Op02)
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN LaLiga (Op03)
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN LaLiga (Op04)
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN1 (6.4 Mbps)
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",DAZN2 (10.1 Mbps)
@@ -85,12 +109,12 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/ESPN_logo.svg/200px-ESPN_logo.svg.png",ESPN2 [US] (4.4 Mbps)
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 1 HD
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 1 hd
 acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 1 HD [DE] (4.5 Mbps)
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 1 HD [RU] (4.8 Mbps)
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 2 HD [DE] (3.7 Mbps)
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Eurosport_2015_logo.svg/200px-Eurosport_2015_logo.svg.png",Eurosport 2 HD [PL] (6.8 Mbps)
@@ -121,6 +145,12 @@ acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Fox_Sports_logo.svg/200px-Fox_Sports_logo.svg.png",FOX Sports 2 HD [US] (3.6 Mbps)
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Setanta_Sports_logo.svg/200px-Setanta_Sports_logo.svg.png",GE: Setanta Sports 1 Georgia HD
+acestream://5943e63dec90bb51be66de1460641d177f044680
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Setanta_Sports_logo.svg/200px-Setanta_Sports_logo.svg.png",GE: Setanta Sports 2 Georgia HD
+acestream://0ce2cb58f3d974e32c2b77dcef4b0ba6da781779
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Setanta_Sports_logo.svg/200px-Setanta_Sports_logo.svg.png",GE: Setanta Sports 3 Georgia HD
+acestream://e64caac6500bf1ebcc6b8423bff3fd7b6363af63
 #EXTINF:-1,LaLiga TV (Op01)
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1,LaLiga TV (Op02)
@@ -135,6 +165,8 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 acestream://4e066df67d118f95b41f850869abdc663c515186
 #EXTINF:-1,LaLiga TV Hypermotion (Op02)
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1,LaLiga TV Hypermotion 2 (Op01)
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1,M Deportes (Op01)
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
 #EXTINF:-1,M Deportes (Op02)
@@ -145,20 +177,10 @@ acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1,M Deportes (Op05)
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1,M Deportes 4 (Op01)
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1,M Deportes 5 (Op01)
-acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
-#EXTINF:-1,M Deportes 5 (Op02)
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1,M Plus+ (M+) (Op01)
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1,M Plus+ (M+) (Op02)
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1,M Deportes 2 (Op01)
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1,M. Deportes HD (7.6 Mbps)
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1,M. Golf (Op01)
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
 #EXTINF:-1,M. LaLiga
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1,M. Liga de Campeones (7.2 Mbps)
@@ -193,6 +215,8 @@ acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Setanta_Sports_logo.svg/200px-Setanta_Sports_logo.svg.png",Setanta Live 2 [RU] (8.6 Mbps)
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Setanta_Sports_logo.svg/200px-Setanta_Sports_logo.svg.png",Setanta Qazaqstan
+acestream://b7e8c3bae5d98a4f842f334ff57604de9886f5c7
 #EXTINF:-1,Sky Bundesliga 1 HD [DE]
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1,Sky Sport F1 [DE] (5.2 Mbps)
@@ -223,6 +247,8 @@ acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1,Vamos (Op06)
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Ziggo_Sport_Totaal_logo.svg/200px-Ziggo_Sport_Totaal_logo.svg.png",Ziggo Sport (4.8 Mbps)
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Ziggo_Sport_Totaal_logo.svg/200px-Ziggo_Sport_Totaal_logo.svg.png",Ziggo Sport 2 (4.8 Mbps)
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Ziggo_Sport_Totaal_logo.svg/200px-Ziggo_Sport_Totaal_logo.svg.png",Ziggo Sport 6 (2.8 Mbps)
@@ -249,3 +275,5 @@ acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Матч! футбол 2 HD
 acestream://4fb7d7f128d371205a6bce4caf4a3d68664728cf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png",Матч! Футбол 3 ( original ) [RU] (8.2 Mbps)
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
